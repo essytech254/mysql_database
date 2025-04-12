@@ -68,8 +68,8 @@ The database schema was designed and visualized using **Draw.io**. The diagram i
 
 | Name              | Email                          |
 |------------------|---------------------------------|
-| Alex Kimari       | kimaria117@gmail.com            |
-| Esther Muthoni    | esthermuthoni030@gmail.com      |
+|     Esther Muthoni   | esthermuthoni030@gmail.com          |
+|  Alex Kimari   |   kimaria117@gmail.com    |
 | Esther Maina      | estherchestter@gmail.com        |
 
 ##
