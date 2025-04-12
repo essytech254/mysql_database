@@ -64,7 +64,7 @@ The database was tested using a set of **SQL SELECT queries** to:
 
 The database schema was designed and visualized using **Draw.io**. The diagram is included in the repo as `ER_Diagram.png`.
 
-## 🧑‍🤝‍🧑 Group Members
+## Contributors | 🧑‍🤝‍🧑 Group Members
 
 | Name              | Email                          |
 |------------------|---------------------------------|
