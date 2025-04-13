@@ -13,7 +13,6 @@ By building this database, we demonstrate our skills in:
 ## 👨‍💻 Technologies Used
 
 - **MySQL** – For building and managing the database
-- **Draw.io** – For designing and visualizing the database schema
 
 ## 📌 Project Objective
 
@@ -25,7 +24,7 @@ To build a well-structured relational database that supports the operations of a
 2. Optimized schema for each table with appropriate data types
 3. Implementation of user roles and access controls
 4. Sample queries to test and demonstrate database functionality
-5. An ER diagram designed in Draw.io for schema visualization
+
 
 ## 🗃️ Tables Created
 
@@ -60,9 +59,6 @@ The database was tested using a set of **SQL SELECT queries** to:
 - Analyze book sales
 - Identify most active authors and publishers
 
-## 📊 ER Diagram
-
-The database schema was designed and visualized using **Draw.io**. The diagram is included in the repo as `ER_Diagram.png`.
 
 ## Contributors | 🧑‍🤝‍🧑 Group Members
 
